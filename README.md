@@ -1,5 +1,4 @@
 ## Prazer, eu sou o Nathan 🤗
-- 👀 Manda Jobs
 - 🌱 Aprimorando Python e SQL
 - 📫 Fale comigo pelo: lopes.nathanlemes@gmail.com
 - 🐣 Estou começando, aceito ajudas!!
