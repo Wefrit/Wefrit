@@ -18,10 +18,9 @@
 <!-- sql -->
 <img align="center" width=5% src="https://cdn.discordapp.com/attachments/1260740891321303162/1369751532827840542/sql-database-generic.190x256.png?ex=685e4246&is=685cf0c6&hm=d436fde99665fcc25f2712d9939ed333fdcf03ee3fe4e17651ae8c871c937f28&">
 
-<!-- eu piscando -->
-<img align="right" width=15% src="https://cdn.discordapp.com/attachments/1260740891321303162/1369758091268329524/eu_piscando_1_5.gif?ex=685e4861&is=685cf6e1&hm=7513e5d2f3062f8dd5ceeeec1da57a304478c510d49cce6de759a99e03687027&">
-
 ##
+<!-- eu piscando -->
+<img align="right" width=18% src="https://cdn.discordapp.com/attachments/1260740891321303162/1369758091268329524/eu_piscando_1_5.gif?ex=685e4861&is=685cf6e1&hm=7513e5d2f3062f8dd5ceeeec1da57a304478c510d49cce6de759a99e03687027&">
 
 <!-- logos -->
 <div>
