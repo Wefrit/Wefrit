@@ -1,7 +1,7 @@
 ## Prazer, eu sou o Nathan 🤗
 - 🌱 Aprimorando Python e SQL
 - 📫 Fale comigo pelo: lopes.nathanlemes@gmail.com
-- 🐣 Estou começando, aceito ajudas!!
+- 🐣 Começando na área, estudando e treinando no Git.
 
 <a href="https://github.com/Wefrit/github-readme-stats">
   <img width=44% align="center" src="https://github-readme-stats.vercel.app/api?username=Wefrit&theme=synthwave" />
@@ -31,9 +31,3 @@
 <!-- linkedin -->
 <a href="https://www.linkedin.com/in/nathan-lopes-47aaa6315/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wefrit/Wefrit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wefrit/Wefrit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wefrit/Wefrit/output/github-contribution-grid-snake.svg">
-</picture>
