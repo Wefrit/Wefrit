@@ -3,7 +3,6 @@
 - 🐣 Estudando para trabalhar como **desenvolvedor Back-end**, em áreas de **Dados** e treinando conhecimentos de Git/GitHub.
 ---  
 Linguagens: **Python** e **SQL**  
-##
 Banco de dados: **MySQL**
 
 ---
