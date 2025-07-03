@@ -1,7 +1,12 @@
 ## Prazer, eu sou o Nathan 🤗
-- 🌱 Aprimorando Python e SQL
-- 📫 Fale comigo pelo: lopes.nathanlemes@gmail.com
-- 🐣 Começando na área, estudando e treinando no Git.
+
+- 🐣 Estudando para trabalhar como **desenvolvedor Back-end**, em áreas de **Dados** e treinando conhecimentos de Git/GitHub.
+---  
+Linguagens: **Python** e **SQL**  
+##
+Banco de dados: **MySQL**
+
+---
 
 <a href="https://github.com/Wefrit/github-readme-stats">
   <img width=44% align="center" src="https://github-readme-stats.vercel.app/api?username=Wefrit&theme=synthwave" />
