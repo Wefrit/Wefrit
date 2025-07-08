@@ -29,8 +29,10 @@
 ---
 
 <!-- Ícones -->
+<!-- python -->
 <img align="left" width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" />
-<img align="left" width="5%" src="https://cdn.discordapp.com/attachments/1260740891321303162/1369751532827840542/sql-database-generic.190x256.png?ex=685e4246&is=685cf0c6&hm=d436fde99665fcc25f2712d9939ed333fdcf03ee3fe4e17651ae8c871c937f28&" alt="SQL icon" />
+<!-- sql -->
+<img align="left" width="6%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8V75JvZjil2jMWkGP70So3pdTI5L3ntEHg&s" />
 
 <br><br><br> <!-- espaçamento para quebrar a linha depois dos ícones -->
 
