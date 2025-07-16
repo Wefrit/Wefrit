@@ -9,7 +9,9 @@
 <img align="right" width="12%" src="https://cdn.discordapp.com/attachments/1260740891321303162/1369758091268329524/eu_piscando_1_5.gif?ex=685e4861&is=685cf6e1&hm=7513e5d2f3062f8dd5ceeeec1da57a304478c510d49cce6de759a99e03687027&" />
 <br>
 
-- 🐣 Estudando para trabalhar como **desenvolvedor Back-end**, com interesse em áreas de **Dados**
+- 🐣 Estudando para trabalhar como **desenvolvedor Back-end**
+- Também tenho interesse em áreas de **Dados**
+- Às vezes dou uma brincada no HTML (não sei nada kkkk) só pra ver qual é que é dessa galera do Front 🙂‍↔️
 
 <br>
 
