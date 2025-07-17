@@ -9,11 +9,13 @@
 <img align="right" width="19%" src="https://i.ibb.co/JjtNgfhK/eu-piscando-1-5.gif" />
 <br>
 
+
 - 🐣 Estudando para trabalhar como **desenvolvedor Back-end**
   
 - Também tenho interesse em áreas de **Dados**
   
-- Às vezes dou uma brincada no HTML (não sei nada kkkk) só pra ver qual é que é dessa galera do Front 🙂‍↔️  
+- Às vezes dou uma brincada no HTML (não sei nada kkkk) só pra ver qual é que é dessa galera do Front 😌
+   
 - Praticando conhecimentos de Git/GitHub.
 
 <br>
