@@ -10,7 +10,7 @@
 <br>
 &nbsp;
 
-- 🐣Estudando **Python*** para trabalhar como **desenvolvedor Back-end**
+- 🐣Estudando **Python** para trabalhar como **desenvolvedor Back-end**
   
 - 🎲Também tenho interesse em áreas de **Dados**
   
