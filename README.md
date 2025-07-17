@@ -1,4 +1,5 @@
-## Prazer, eu sou o Nathan 🤗
+## Oi, eu sou o Nathan 😉
+
 
 **Linguagens**: Python 🐍, SQL 🐘  
 **Banco de dados**: MySQL
