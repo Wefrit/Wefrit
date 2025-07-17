@@ -14,7 +14,7 @@
   
 - 🎲Também tenho interesse em áreas de **Dados**
   
-- 😌Às vezes dou uma brincada no **HTML** (não sei nada kkkk) só pra ver qual é que é dessa galera do **Front** 
+- 😌Às vezes dou uma brincada no **HTML** só pra ver qual é que é dessa galera do **Front** 
    
 - :octocat:Praticando conhecimentos de **Git/GitHub**.
 
