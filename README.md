@@ -7,7 +7,7 @@
 ---
 
 <!-- Gif piscando -->
-<img align="right" width="23%" src="https://i.ibb.co/JjtNgfhK/eu-piscando-1-5.gif" />
+<img align="right" width="21%" src="eu_piscando (1) (5).gif" />
 <br>
 &nbsp;
 
